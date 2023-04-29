@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nbarone5180
-- I’m interested in Astrodynamics
-- I’m currently learning Python
+- I’m currently an astrodynamics and GNC engineer.
+- I use Github for personal projects and skill developement.
 - To contact me, email @ nbarone5180@gmail.com
 
 <!---
